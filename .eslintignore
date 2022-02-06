@@ -1,0 +1,27 @@
+# -----------------------------------------------------------------------------
+# Node, TypeScript, Python
+# -----------------------------------------------------------------------------
+
+# Dependencies
+node_modules
+
+# Configuration
+typings
+webpack.config.ts
+
+# Distribution files
+dist
+polyfill
+
+# Caches and logs
+*.cpuprofile
+*.log
+*.tsbuildinfo
+.eslintcache
+
+# -----------------------------------------------------------------------------
+# General
+# -----------------------------------------------------------------------------
+
+# Temporary files
+tmp
